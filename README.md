@@ -17,6 +17,7 @@
 * Образ прошивки ОС Q2 (KLP_IMG_QD_Q2_V1.0.1_20250505_Release.img)
 
 Все файлы доступны на Google Диске: 👉 https://drive.google.com/drive/folders/1DSWuDp-SBexRj-f-FzzQahNxTc9IDZGr?usp=sharing
+Альтернативная ссылка на Google Диск: 👉 https://drive.google.com/drive/folders/1WKg1bVOYq7t6M3MXozvj9jvNutjHJRGt?usp=drive_link
 
 Разархивируем архивы с образом прошивки и программой так, чтобы в пути к ним не было кириллицы, это важно!
 
@@ -94,4 +95,3 @@ MASKROM — это низкоуровневый режим восстановл�
 8. Убедитесь, что выбран правильный файл прошивки и нажмите кнопку Upgrade (кнопку Switch нажимать не нужно).
 9. Дождитесь завершения процесса на 100%.
 
-Списал с qidi-wiki, перевёл и адаптировал: @AHAHAC
