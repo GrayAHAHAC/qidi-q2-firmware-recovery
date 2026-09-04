@@ -23,6 +23,7 @@ This procedure allows you to completely restore your Q2 to factory settings by f
 * **Q2 OS Firmware image** (`KLP_IMG_QD_Q2_V1.0.1_20250505_Release.img`).
 
 All files are available on Google Drive: 👉 https://drive.google.com/drive/folders/1DSWuDp-SBexRj-f-FzzQahNxTc9IDZGr?usp=sharing
+Alternative link: 👉 https://drive.google.com/drive/folders/1WKg1bVOYq7t6M3MXozvj9jvNutjHJRGt?usp=drive_link
 
 Extract the archives with the firmware image and the tool. Ensure there are no Cyrillic (or non-Latin) characters in the file path, this is important!
 
@@ -125,6 +126,7 @@ As described above, the host can enter MASKROM automatically if a flash fails. H
 * **Образ прошивки ОС Q2** (`KLP_IMG_QD_Q2_V1.0.1_20250505_Release.img`)
 
 Все файлы доступны на Google Диске: 👉 https://drive.google.com/drive/folders/1DSWuDp-SBexRj-f-FzzQahNxTc9IDZGr?usp=sharing
+Альтернативная ссылка: 👉 https://drive.google.com/drive/folders/1WKg1bVOYq7t6M3MXozvj9jvNutjHJRGt?usp=drive_link
 
 Разархивируем архивы с образом прошивки и программой так, чтобы в пути к ним не было кириллицы, это важно!
 
