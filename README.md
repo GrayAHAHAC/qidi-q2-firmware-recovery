@@ -1,7 +1,8 @@
-🌍 [English version](#english-version) | 🇷🇺 [Русская версия](#русская-версия)
+🌍 [English version](#english) | 🇷🇺 [Русская версия](#russian)
 
 ---
 
+<a id="english"></a>
 # 🌍 English Version
 
 > [!CAUTION]
@@ -105,10 +106,11 @@ As described above, the host can enter MASKROM automatically if a flash fails. H
 
 ---
 
+<a id="russian"></a>
 # 🇷🇺 Русская версия
 
 > [!CAUTION]
-> **Внимание! Все действия которые описаны ниже, вы делаете на свой страх и риск!!!**
+> **Внимание! Все действия которые описаны ниже, вы делаете на свой страх и риск!!!*
 
 # Прошивка Qidi Q2
 
